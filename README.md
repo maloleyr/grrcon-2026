@@ -119,7 +119,7 @@ Overall a very excellent opening keynote and much better than last year.
     - Phantom - Art of Pwn
         - Pauses the event log so you can insert new services and make changes.
     - The Event log is only the tip of the iceberg. 
-    - Locards Exchange Principle: Every contact leaves a trace. 
+    - Locard's Exchange Principle: Every contact leaves a trace. 
         - Pioneer of modern forensics. 
         - Think "CSI."
     - In DFIR we cannot alter the evidence! At least we need to avoid it.
@@ -235,7 +235,7 @@ Group photo!
 3. "**Clever girl.**" - Muldoon's last words, right before the raptor that had been *learning* his patterns outflanked him
     - Personal Disclosure: I know this presenter personally from working with him when my career first started. 
     - Atlas' talks are always a treat because you just never know where it is going to go. I'm glad he gives them. 
-    - We've been getting hacked in our brains for years. Think social media. Watch the Social Dillemma movie.
+    - We've been getting hacked in our brains for years. Think social media. Watch the Social Dilemma movie.
     - Sakana Fugo Japan
     - Deepseek V4-Flash Qwen 3.8-27B
     - Wiki Memory for Agents. 
