@@ -6,7 +6,7 @@ _These are my personal notes about my personal experience. These are not profess
 
 ## tl;dr
 
-What an amazing conference! Honestly I don't think there were any real missed or bad sessions this year. From the opening keynote to the final session I attended I think I learned, or had a prior though reinforced, a ton this year. Even better though was connecting with vendors and friends on a different level now that I have a role in running the #misec organization (a 501c3 nonprofit in Michigan). I was also able to chat with a few vendors regarding my professional role and what other services might help out. I'm looking forward to a followup with Cloudflare on that. I think the highlight was the Grand Rapids #misec Meet Up at The Bob on Thursday evening. I cannot tell you how many people were there for our meetup but I can tell you that many had expensive tastes (Knob Creek and Woodford Reserve and Ketel One?!?!?!).
+What an amazing conference! Honestly I don't think there were any real missed or bad sessions this year. From the opening keynote to the final session I attended I think I learned, or had a prior thought reinforced, a ton this year. Even better though was connecting with vendors and friends on a different level now that I have a role in running the #misec organization (a 501c3 nonprofit in Michigan). I was also able to chat with a few vendors regarding my professional role and what other services might help out. I'm looking forward to a followup with Cloudflare on that. I think the highlight was the Grand Rapids #misec Meet Up at The Bob on Thursday evening. I cannot tell you how many people were there for our meetup but I can tell you that many had expensive tastes (Knob Creek and Woodford Reserve and Ketel One?!?!?!).
 
 ## Wednesday
 
@@ -14,7 +14,7 @@ Wednesday evening I always try and hang around downtown for a quiet drink or thr
 
 After tacos I pivoted to the unofficial GrrCON hangout: Z's Bar and Restaurant! Z's is always a good time on its own but being full of friends and soon to be friends made it extra special. I especially enjoyed talking to some presenters (Patrick and Tom and John and others) and reconnecting with friends that I only see but once a year. Ed and his 3D printer went all out and it was fun getting a preview.
 
-My #misec President joined me on a trek _o'er the river and through the woods_ to meet with one of our #misec Elders, Brian, for a meet and greet with some sales people at the Drop Drop. Now THAT is a cocktail lounge and what a wonderful old fashioned it was. Of course the trek back to my car was long. I got my steps in!
+My #misec President joined me on a trek _o'er the river and through the woods_ to meet with one of our #misec Elders, Brian, for a meet and greet with some sales people at the Drip Drop. Now THAT is a cocktail lounge and what a wonderful old fashioned it was. Of course the trek back to my car was long. I got my steps in!
 
 I had to stop at Meijer for last minute #misec supplies and then I went to bed! Thursday would come soon enough.
 
@@ -45,7 +45,8 @@ _Just a small heads up: I do try and attend every session of interest. However s
     - Listen. Support. Share the love.
     - Remember that the person next to you could be your future boss. Be kind to each other.
     - This was the phrase of the year: "Self licking ice cream cone of misery."
-    - Cyber insurance: Go F### yourself. (to be clear I only agree in the professional sense that insurance should be way more proactive and they need to stop being jerks when an incident happens.)
+    - Cyber insurance: Go F### yourself. 
+        - (to be clear I only agree in the professional sense that insurance should be way more proactive and they need to stop being jerks when an incident happens.)
     - On insurance: Especially F### the "War Clause" and terrorist clauses that always appear.
         - Seriously. On a personal note I get the _why_ but this just reduces humans to units. 
     - On insurance: The business model goal of trying to not pay is evil.
@@ -95,7 +96,6 @@ Overall a very excellent opening keynote and much better than last year.
     - With that said I have to give props to Timothy: He did a great job presenting and it was HIS FIRST TIME SPEAKING! Great job at putting yourself out there Timothy. Keep it up!! 
     - Regression: Controls fail silently over time due to changes.
         - Read: Undocumented and non-communicated changes are bad! 
-    - TODO: Link a photo of a slide.
     - Failure is in the systems around controls.
     - Decay, Drift, Detachment.
     - Quick Definitions Slide
